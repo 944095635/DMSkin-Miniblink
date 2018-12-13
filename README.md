@@ -7,7 +7,9 @@ Miniblink 浏览器内核
 
 <image src='https://raw.githubusercontent.com/944095635/DMSkin-Miniblink/master/demo.png'>
 
-采用极致压缩之后,体积缩减到 4480KB
+https://github.com/944095635/DMSkin-Miniblink/releases/download/1.0.0.0/Release.7z
+下载体验，demo 仅仅打开百度页面。
+采用极致压缩之后,打包体积缩减到4480KB
 
 # 源码来源
 https://github.com/weolar/miniblink49
