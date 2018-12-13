@@ -5,7 +5,7 @@ Miniblink 浏览器内核
 
 包括 Winform 和 WPF 版本
 
-
+采用极致压缩之后,体积缩减到 4480KB
 
 # 源码来源
 https://github.com/weolar/miniblink49
