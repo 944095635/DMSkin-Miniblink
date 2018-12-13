@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DMSkin.Miniblink", "DMSkin.Miniblink\DMSkin.Miniblink.csproj", "{59B1C3CF-9F7C-4528-BFBD-AD0BD7918DB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniblinkNet", "MiniblinkNet\MiniblinkNet.csproj", "{42294472-EC90-4C05-9F06-C68EDCE6310D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WPF", "WPF", "{8B78C0ED-1514-448B-8E91-614A324E946A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Winform", "Winform", "{4C439FDB-BE35-4B1A-94D3-16D97A87C1B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DMSkin.Miniblink.WF", "DMSkin.Miniblink.WF\DMSkin.Miniblink.WF.csproj", "{99D9F220-0763-4849-980E-397BF8909A00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59B1C3CF-9F7C-4528-BFBD-AD0BD7918DB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59B1C3CF-9F7C-4528-BFBD-AD0BD7918DB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59B1C3CF-9F7C-4528-BFBD-AD0BD7918DB4}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{59B1C3CF-9F7C-4528-BFBD-AD0BD7918DB4}.Debug|x86.Build.0 = Debug|Any CPU
+		{59B1C3CF-9F7C-4528-BFBD-AD0BD7918DB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59B1C3CF-9F7C-4528-BFBD-AD0BD7918DB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59B1C3CF-9F7C-4528-BFBD-AD0BD7918DB4}.Release|x86.ActiveCfg = Release|Any CPU
+		{59B1C3CF-9F7C-4528-BFBD-AD0BD7918DB4}.Release|x86.Build.0 = Release|Any CPU
+		{42294472-EC90-4C05-9F06-C68EDCE6310D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42294472-EC90-4C05-9F06-C68EDCE6310D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42294472-EC90-4C05-9F06-C68EDCE6310D}.Debug|x86.ActiveCfg = Debug|x86
+		{42294472-EC90-4C05-9F06-C68EDCE6310D}.Debug|x86.Build.0 = Debug|x86
+		{42294472-EC90-4C05-9F06-C68EDCE6310D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42294472-EC90-4C05-9F06-C68EDCE6310D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42294472-EC90-4C05-9F06-C68EDCE6310D}.Release|x86.ActiveCfg = Release|x86
+		{42294472-EC90-4C05-9F06-C68EDCE6310D}.Release|x86.Build.0 = Release|x86
+		{99D9F220-0763-4849-980E-397BF8909A00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99D9F220-0763-4849-980E-397BF8909A00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99D9F220-0763-4849-980E-397BF8909A00}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{99D9F220-0763-4849-980E-397BF8909A00}.Debug|x86.Build.0 = Debug|Any CPU
+		{99D9F220-0763-4849-980E-397BF8909A00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99D9F220-0763-4849-980E-397BF8909A00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99D9F220-0763-4849-980E-397BF8909A00}.Release|x86.ActiveCfg = Release|Any CPU
+		{99D9F220-0763-4849-980E-397BF8909A00}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{59B1C3CF-9F7C-4528-BFBD-AD0BD7918DB4} = {8B78C0ED-1514-448B-8E91-614A324E946A}
+		{99D9F220-0763-4849-980E-397BF8909A00} = {4C439FDB-BE35-4B1A-94D3-16D97A87C1B4}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22BE21F1-76A5-41C2-A564-6BCC546D012B}
+	EndGlobalSection
+EndGlobal
